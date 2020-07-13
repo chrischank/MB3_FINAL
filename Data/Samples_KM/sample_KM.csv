@@ -1,0 +1,21 @@
+ID,latitude,longitude,class_id,class_name,Notes,Surveyor
+1,49.7866751281,9.9709915375,3,Grassland,garden of house with grass and trees,KM
+43,49.7888159907,9.9731182836,1,Built-up,mixed of road and grass,KM
+46,49.7849686114,9.981376336,3,Grassland,mixture of bare ground and sparse vegetation,KM
+47,49.787964511,9.9781026095,1,Built-up,,KM
+49,49.7898071987,9.9835580937,,,"inaccessible, construction site",KM
+57,49.789366068,9.9718789226,3,Grassland,,KM
+71,49.7860724475,9.9784812757,1,Built-up,,KM
+84,49.7877647684,9.9697629796,3,Grassland,,KM
+97,49.7889801195,9.9856252997,5,Agriculture,,KM
+110,49.7890647583,9.9756240171,3,Grassland,,KM
+114,49.7895832637,9.978135209,3,Grassland,,KM
+123,49.7852030371,9.9855486581,3,Grassland,small piece of lawn surrounded by houses,KM
+161,49.7894113789,9.9664615019,3,Grassland,,KM
+168,49.791286014,9.9681660492,1,Built-up,mixed of build-up ground and sparse vegetation,KM
+170,49.7874249266,9.9780917437,3,Grassland,soil ground with grass in surrounding,KM
+172,49.7877052645,9.9768470491,1,Built-up,,KM
+188,49.7890331199,9.9793745036,1,Built-up,vegetation closed to the road,KM
+190,49.7852384034,9.9813817867,3,Grassland,mixture of bare ground and sparse vegetation,KM
+193,49.7912336164,9.9744171561,3,Grassland,,KM
+200,49.7885181536,9.9764466112,1,Built-up,,KM
