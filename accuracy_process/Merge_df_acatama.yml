@@ -1,0 +1,240 @@
+thematic_raster: {band: 1, nodata: -1, path: 'C:\Users\yomi_\Dropbox\MB3_FINAL\MB3_FINAL\Class_test.tif'}
+sampling_layer: C:\Users\yomi_\Dropbox\MB3_FINAL\MB3_FINAL\Data\Merge_df.shp
+dialog_size: !!python/tuple [1531, 926]
+grid_view_widgets: {columns: 2, rows: 2}
+current_sample_idx: 52
+fit_to_sample: 120.0
+is_completed: false
+view_widgets_config:
+  0: {layer_name: Class_test, render_file_path: 'C:\Users\yomi_\Dropbox\MB3_FINAL\MB3_FINAL\Class_test.tif',
+    scale_factor: 1.0, view_name: ''}
+  1: {layer_name: Wue_RGB, render_file_path: 'C:\Users\yomi_\Dropbox\MB3_FINAL\Wue_RGB.tif',
+    scale_factor: 1.0, view_name: ''}
+  2: {layer_name: Google Satellite, render_file_path: null, scale_factor: 1.0, view_name: ''}
+  3: {layer_name: ESRI Satellite, render_file_path: null, scale_factor: 1.0, view_name: ''}
+classification_buttons:
+  1: {color: '#4444ce', name: Built-up, thematic_class: '1'}
+  2: {color: '#4def4d', name: Trees, thematic_class: '2'}
+  3: {color: '#ea3fea', name: Grassland, thematic_class: '3'}
+  4: {color: '#6ee1e1', name: Vineyards, thematic_class: '4'}
+  5: {color: '#dc0f0f', name: Agriculture, thematic_class: '5'}
+  6: {color: '#dede13', name: Water, thematic_class: '6'}
+points:
+  0: {classif_id: 1, shape_id: '134'}
+  1: {classif_id: 1, shape_id: '41'}
+  2: {classif_id: 1, shape_id: '140'}
+  3: {classif_id: 1, shape_id: '124'}
+  4: {classif_id: 1, shape_id: '157'}
+  5: {classif_id: 1, shape_id: '74'}
+  6: {classif_id: 1, shape_id: '61'}
+  7: {classif_id: 1, shape_id: '149'}
+  8: {classif_id: 1, shape_id: '183'}
+  9: {classif_id: 1, shape_id: '51'}
+  10: {classif_id: 1, shape_id: '22'}
+  11: {classif_id: 1, shape_id: '24'}
+  12: {classif_id: 1, shape_id: '52'}
+  13: {classif_id: 1, shape_id: '58'}
+  14: {classif_id: 1, shape_id: '182'}
+  15: {classif_id: 1, shape_id: '39'}
+  16: {classif_id: 1, shape_id: '53'}
+  17: {classif_id: 1, shape_id: '127'}
+  18: {classif_id: 3, shape_id: '176'}
+  19: {classif_id: 1, shape_id: '109'}
+  20: {classif_id: 3, shape_id: '17'}
+  21: {classif_id: 3, shape_id: '18'}
+  22: {classif_id: 5, shape_id: '29'}
+  23: {classif_id: 2, shape_id: '54'}
+  24: {classif_id: 1, shape_id: '56'}
+  25: {classif_id: 3, shape_id: '95'}
+  26: {classif_id: 1, shape_id: '98'}
+  27: {classif_id: 1, shape_id: '106'}
+  28: {classif_id: 2, shape_id: '112'}
+  29: {classif_id: 3, shape_id: '118'}
+  30: {classif_id: 4, shape_id: '125'}
+  31: {classif_id: 1, shape_id: '131'}
+  32: {classif_id: 3, shape_id: '146'}
+  33: {classif_id: 3, shape_id: '151'}
+  34: {classif_id: 3, shape_id: '159'}
+  35: {classif_id: 3, shape_id: '164'}
+  36: {classif_id: 1, shape_id: '174'}
+  37: {classif_id: 3, shape_id: '185'}
+  38: {classif_id: 5, shape_id: '187'}
+  39: {classif_id: 4, shape_id: '191'}
+  40: {classif_id: 1, shape_id: '7'}
+  41: {classif_id: 1, shape_id: '23'}
+  42: {classif_id: 4, shape_id: '26'}
+  43: {classif_id: 4, shape_id: '27'}
+  44: {classif_id: 1, shape_id: '35'}
+  45: {classif_id: 4, shape_id: '73'}
+  46: {classif_id: 5, shape_id: '78'}
+  47: {classif_id: 1, shape_id: '79'}
+  48: {classif_id: 5, shape_id: '81'}
+  49: {classif_id: 5, shape_id: '89'}
+  50: {classif_id: 4, shape_id: '103'}
+  51: {classif_id: 4, shape_id: '105'}
+  52: {classif_id: 1, shape_id: '107'}
+  53: {classif_id: 4, shape_id: '165'}
+  54: {classif_id: 1, shape_id: '175'}
+  55: {classif_id: 1, shape_id: '178'}
+  56: {classif_id: 2, shape_id: '180'}
+  57: {classif_id: 1, shape_id: '189'}
+  58: {classif_id: 4, shape_id: '197'}
+  60: {classif_id: 1, shape_id: '8'}
+  61: {classif_id: 3, shape_id: '10'}
+  62: {classif_id: 3, shape_id: '12'}
+  63: {classif_id: 4, shape_id: '20'}
+  64: {classif_id: 2, shape_id: '21'}
+  65: {classif_id: 1, shape_id: '37'}
+  66: {classif_id: 4, shape_id: '69'}
+  67: {classif_id: 4, shape_id: '76'}
+  68: {classif_id: 6, shape_id: '77'}
+  69: {classif_id: 3, shape_id: '80'}
+  70: {classif_id: 1, shape_id: '99'}
+  71: {classif_id: 1, shape_id: '102'}
+  72: {classif_id: 4, shape_id: '115'}
+  73: {classif_id: 3, shape_id: '116'}
+  74: {classif_id: 4, shape_id: '128'}
+  75: {classif_id: 3, shape_id: '132'}
+  76: {classif_id: 4, shape_id: '148'}
+  77: {classif_id: 1, shape_id: '156'}
+  78: {classif_id: 4, shape_id: '192'}
+  79: {classif_id: 3, shape_id: '196'}
+  80: {classif_id: 5, shape_id: '19'}
+  81: {classif_id: 5, shape_id: '31'}
+  82: {classif_id: 5, shape_id: '40'}
+  83: {classif_id: 5, shape_id: '55'}
+  84: {classif_id: 5, shape_id: '60'}
+  85: {classif_id: 5, shape_id: '70'}
+  86: {classif_id: 3, shape_id: '72'}
+  87: {classif_id: 4, shape_id: '87'}
+  88: {classif_id: 5, shape_id: '104'}
+  89: {classif_id: 1, shape_id: '126'}
+  90: {classif_id: 2, shape_id: '142'}
+  91: {classif_id: 5, shape_id: '143'}
+  92: {classif_id: 2, shape_id: '145'}
+  93: {classif_id: 3, shape_id: '152'}
+  94: {classif_id: 5, shape_id: '155'}
+  95: {classif_id: 5, shape_id: '158'}
+  96: {classif_id: 5, shape_id: '173'}
+  97: {classif_id: 2, shape_id: '177'}
+  98: {classif_id: 5, shape_id: '194'}
+  99: {classif_id: 5, shape_id: '199'}
+  100: {classif_id: 4, shape_id: '2'}
+  101: {classif_id: 4, shape_id: '3'}
+  102: {classif_id: 6, shape_id: '11'}
+  103: {classif_id: 5, shape_id: '13'}
+  104: {classif_id: 4, shape_id: '33'}
+  105: {classif_id: 5, shape_id: '34'}
+  106: {classif_id: 5, shape_id: '36'}
+  107: {classif_id: 4, shape_id: '44'}
+  108: {classif_id: 6, shape_id: '45'}
+  109: {classif_id: 4, shape_id: '48'}
+  110: {classif_id: 4, shape_id: '50'}
+  111: {classif_id: 4, shape_id: '67'}
+  112: {classif_id: 5, shape_id: '82'}
+  113: {classif_id: 4, shape_id: '86'}
+  114: {classif_id: 4, shape_id: '96'}
+  115: {classif_id: 4, shape_id: '113'}
+  116: {classif_id: 5, shape_id: '130'}
+  117: {classif_id: 4, shape_id: '139'}
+  118: {classif_id: 5, shape_id: '163'}
+  119: {classif_id: 5, shape_id: '166'}
+  120: {classif_id: 1, shape_id: '136'}
+  121: {classif_id: 1, shape_id: '93'}
+  122: {classif_id: 1, shape_id: '88'}
+  123: {classif_id: 1, shape_id: '66'}
+  124: {classif_id: 1, shape_id: '42'}
+  125: {classif_id: 3, shape_id: '94'}
+  126: {classif_id: 1, shape_id: '117'}
+  127: {classif_id: 1, shape_id: '91'}
+  128: {classif_id: 1, shape_id: '141'}
+  129: {classif_id: 3, shape_id: '60'}
+  130: {classif_id: 1, shape_id: '129'}
+  131: {classif_id: 3, shape_id: '63'}
+  132: {classif_id: 1, shape_id: '120'}
+  133: {classif_id: 1, shape_id: '184'}
+  134: {classif_id: 1, shape_id: '122'}
+  135: {classif_id: 3, shape_id: '111'}
+  136: {classif_id: 1, shape_id: '92'}
+  137: {classif_id: 1, shape_id: '65'}
+  138: {classif_id: 1, shape_id: '75'}
+  139: {classif_id: 1, shape_id: '119'}
+  140: {classif_id: 3, shape_id: '1'}
+  141: {classif_id: 1, shape_id: '43'}
+  142: {classif_id: 3, shape_id: '46'}
+  143: {classif_id: 1, shape_id: '47'}
+  144: {classif_id: 3, shape_id: '57'}
+  145: {classif_id: 1, shape_id: '71'}
+  146: {classif_id: 3, shape_id: '84'}
+  147: {classif_id: 5, shape_id: '97'}
+  148: {classif_id: 3, shape_id: '110'}
+  149: {classif_id: 3, shape_id: '114'}
+  150: {classif_id: 3, shape_id: '123'}
+  151: {classif_id: 3, shape_id: '161'}
+  152: {classif_id: 1, shape_id: '168'}
+  153: {classif_id: 3, shape_id: '170'}
+  154: {classif_id: 1, shape_id: '172'}
+  155: {classif_id: 1, shape_id: '188'}
+  156: {classif_id: 3, shape_id: '190'}
+  157: {classif_id: 3, shape_id: '193'}
+  158: {classif_id: 1, shape_id: '200'}
+  159: {classif_id: 1, shape_id: '153'}
+  160: {classif_id: 5, shape_id: '154'}
+  161: {classif_id: 1, shape_id: '64'}
+  162: {classif_id: 1, shape_id: '15'}
+  163: {classif_id: 1, shape_id: '179'}
+  164: {classif_id: 5, shape_id: '32'}
+  165: {classif_id: 1, shape_id: '144'}
+  166: {classif_id: 3, shape_id: '5'}
+  167: {classif_id: 1, shape_id: '90'}
+  168: {classif_id: 1, shape_id: '28'}
+  169: {classif_id: 1, shape_id: '59'}
+  170: {classif_id: 1, shape_id: '171'}
+  171: {classif_id: 1, shape_id: '195'}
+  172: {classif_id: 3, shape_id: '138'}
+  173: {classif_id: 2, shape_id: '167'}
+  174: {classif_id: 1, shape_id: '133'}
+  175: {classif_id: 3, shape_id: '16'}
+  176: {classif_id: 5, shape_id: '135'}
+  177: {classif_id: 2, shape_id: '100'}
+  178: {classif_id: 5, shape_id: '101'}
+  179: {classif_id: 3, shape_id: '4'}
+  180: {classif_id: 1, shape_id: '6'}
+  181: {classif_id: 2, shape_id: '9'}
+  182: {classif_id: 1, shape_id: '14'}
+  183: {classif_id: 1, shape_id: '25'}
+  184: {classif_id: 1, shape_id: '30'}
+  185: {classif_id: 1, shape_id: '38'}
+  186: {classif_id: 1, shape_id: '62'}
+  187: {classif_id: 1, shape_id: '68'}
+  188: {classif_id: 3, shape_id: '83'}
+  189: {classif_id: 2, shape_id: '85'}
+  190: {classif_id: 1, shape_id: '108'}
+  191: {classif_id: 3, shape_id: '121'}
+  192: {classif_id: 1, shape_id: '137'}
+  193: {classif_id: 5, shape_id: '147'}
+  194: {classif_id: 1, shape_id: '150'}
+  195: {classif_id: 1, shape_id: '162'}
+  196: {classif_id: 1, shape_id: '169'}
+  197: {classif_id: 1, shape_id: '181'}
+  198: {classif_id: 2, shape_id: '186'}
+  199: {classif_id: 6, shape_id: '201'}
+  200: {classif_id: 6, shape_id: '202'}
+  201: {classif_id: 6, shape_id: '203'}
+points_order: ['134', '41', '140', '124', '157', '74', '61', '149', '183', '51', '22',
+  '24', '52', '58', '182', '39', '53', '127', '176', '109', '17', '18', '29', '54',
+  '56', '95', '98', '106', '112', '118', '125', '131', '146', '151', '159', '164',
+  '174', '185', '187', '191', '7', '23', '26', '27', '35', '73', '78', '79', '81',
+  '89', '103', '105', '107', '165', '175', '178', '180', '189', '197', '198', '8',
+  '10', '12', '20', '21', '37', '69', '76', '77', '80', '99', '102', '115', '116',
+  '128', '132', '148', '156', '192', '196', '19', '31', '40', '55', '60', '70', '72',
+  '87', '104', '126', '142', '143', '145', '152', '155', '158', '173', '177', '194',
+  '199', '2', '3', '11', '13', '33', '34', '36', '44', '45', '48', '50', '67', '82',
+  '86', '96', '113', '130', '139', '163', '166', '136', '93', '88', '66', '42', '94',
+  '117', '91', '141', '60', '129', '63', '120', '184', '122', '111', '92', '65', '75',
+  '119', '1', '43', '46', '47', '57', '71', '84', '97', '110', '114', '123', '161',
+  '168', '170', '172', '188', '190', '193', '200', '153', '154', '64', '15', '179',
+  '32', '144', '5', '90', '28', '59', '171', '195', '138', '167', '133', '16', '135',
+  '100', '101', '4', '6', '9', '14', '25', '30', '38', '62', '68', '83', '85', '108',
+  '121', '137', '147', '150', '162', '169', '181', '186', '201', '202', '203']
+accuracy_assessment_sampling_file: C:\Users\yomi_\Dropbox\MB3_FINAL\MB3_FINAL\Data\Merge_df.shp
